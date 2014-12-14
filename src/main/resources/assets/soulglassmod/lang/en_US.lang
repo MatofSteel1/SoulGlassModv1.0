@@ -1,0 +1,8 @@
+item.soulglassmod:ItemGlassChestplate.name=Glass Chestplate
+item.soulglassmod:ItemRefinedSoulEssence.name=Refined Soul Essence
+item.soulglassmod:ItemSoulGlassPickaxe.name=Soul Glass Pickaxe
+item.soulglassmod:ItemSoulGlassShovel.name=Soul Glass Shovel
+item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
+tile.soulglassmod:BlockSoulGlass.name=Soul Glass
+itemGroup.soulglassmod=Soul Glass Mod
+

@@ -1,0 +1,18 @@
+[
+{
+"modid": "SoulGlassMod",
+"name": "Soul Glass Mod",
+"description": "Blast Resistant glass!",
+"version": "1.0",
+"mcversion": "1.7.10",
+"url": "https://www.youtube.com/channel/UCBE1whf8naouGGymoe0-9Lg",
+"updateUrl": "",
+"authorList": ["MatofSteel1","TheNullPointer","Roweraptor","AgentA12"],
+"credits": "Thank you Pahimar for the Tutorial! Also, Thanks
+            to TheNullPointer for helping me through
+            the mod-making process!",
+"logoFile": "",
+"screenshots": [],
+"dependencies": []
+}
+]
