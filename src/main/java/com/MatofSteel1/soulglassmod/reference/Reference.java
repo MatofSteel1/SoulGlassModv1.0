@@ -7,5 +7,5 @@ public class Reference {
     public static final String FINGERPRINT = "@FINGERPRINT@";
     public static final String CLIENT_PROXY_CLASS = "com.MatofSteel1.soulglassmod.proxy.ClientProxy";
     public static final String SERVER_PROXY_CLASS = "com.MatofSteel1.soulglassmod.proxy.ServerProxy";
-    public static final String GUI_FACTORY_CLASS = "com.MatofSteel1.soulglassmod.client.gui.GuiFactory";
+    public static final String GUI_FACTORY_CLASS = "GuiFactory";
 }

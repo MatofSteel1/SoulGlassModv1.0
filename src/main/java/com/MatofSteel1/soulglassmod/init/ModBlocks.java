@@ -1,5 +1,6 @@
 package com.MatofSteel1.soulglassmod.init;
 
+import com.MatofSteel1.soulglassmod.block.BlockSoulForge;
 import com.MatofSteel1.soulglassmod.block.BlockSoulGlass;
 import com.MatofSteel1.soulglassmod.block.BlockSoulGlassMod;
 import com.MatofSteel1.soulglassmod.block.BlockStackaBlock;
@@ -11,9 +12,11 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class ModBlocks {
     public static final BlockSoulGlassMod BlockSoulGlass = new BlockSoulGlass();
     public static final BlockSoulGlassMod BlockStackaBlock = new BlockStackaBlock();
+    public static final BlockSoulGlassMod BlockSoulForge = new BlockSoulForge();
 
     public static void init() {
         GameRegistry.registerBlock(BlockSoulGlass, Names.Blocks.soulGlass);
         GameRegistry.registerBlock(BlockStackaBlock, Names.Blocks.stackaBlock);
+        GameRegistry.registerBlock(BlockSoulForge, Names.Blocks.soulForge);
     }
 }

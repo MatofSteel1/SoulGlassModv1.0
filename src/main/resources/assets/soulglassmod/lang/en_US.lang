@@ -1,8 +1,16 @@
+    # Creative Tabs
+itemGroup.soulglassmod=Soul Glass Mod
+    # Items
 item.soulglassmod:ItemGlassChestplate.name=Glass Chestplate
 item.soulglassmod:ItemRefinedSoulEssence.name=Refined Soul Essence
 item.soulglassmod:ItemSoulGlassPickaxe.name=Soul Glass Pickaxe
 item.soulglassmod:ItemSoulGlassShovel.name=Soul Glass Shovel
 item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
+    # Blocks/Tiles
 tile.soulglassmod:BlockSoulGlass.name=Soul Glass
-itemGroup.soulglassmod=Soul Glass Mod
-
+tile.soulglassmod:BlockSoulForge.name=Soul Forge
+tile.soulglassmod:BlockStackaBlock.name=StackaBlock
+    # Keys
+keys.SoulGlassMod.category=Soul Glass Mod
+keys.SoulGlassMod.charge=Charge
+keys.SoulGlassMod.release=Release

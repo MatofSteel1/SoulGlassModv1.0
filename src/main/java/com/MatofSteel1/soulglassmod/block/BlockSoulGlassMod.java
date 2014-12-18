@@ -41,9 +41,9 @@ public class BlockSoulGlassMod extends Block {
         this.quantityDropped = par2;
     }
 
-    public int idDropped(int par1, Random par2Random, int par3) {
-        return this.itemDropped != null ? this.itemDropped.getItem() : this.getItemDropped();
-    }
+    //public int idDropped(int par1, Random par2Random, int par3) {
+      //  return this.itemDropped != null ? this.itemDropped.getItem() : this.getItemDropped();
+    //}
     public int quantityDropped(Random par1Random){
         return this.quantityDropped;
     }

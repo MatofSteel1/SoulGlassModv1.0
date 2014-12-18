@@ -4,6 +4,7 @@ import com.MatofSteel1.soulglassmod.handler.ConfigurationHandler;
 import com.MatofSteel1.soulglassmod.init.ModBlocks;
 import com.MatofSteel1.soulglassmod.init.ModItems;
 import com.MatofSteel1.soulglassmod.init.Recipies;
+import com.MatofSteel1.soulglassmod.proxy.ClientProxy;
 import com.MatofSteel1.soulglassmod.proxy.IProxy;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import com.MatofSteel1.soulglassmod.utility.LogHelper;
@@ -29,6 +30,8 @@ public class SoulGlassMod {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         ModItems.init();
         ModBlocks.init();
+        proxy.registerKeyBindings();
+
 
         LogHelper.info("Pre Initialization Complete!");
     }
@@ -42,11 +45,7 @@ public class SoulGlassMod {
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent postEvent){
-        for (String oreName : OreDictionary.getOreNames()){
-            LogHelper.info(oreName);
-            OreDictionary.getOres(oreName);
 
-            LogHelper.info("Post Initialization Complete!");
-        }
+        LogHelper.info("Post Initialization Complete!");
     }
 }

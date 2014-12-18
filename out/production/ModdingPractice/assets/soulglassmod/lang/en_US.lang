@@ -4,5 +4,7 @@ item.soulglassmod:ItemSoulGlassPickaxe.name=Soul Glass Pickaxe
 item.soulglassmod:ItemSoulGlassShovel.name=Soul Glass Shovel
 item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
 tile.soulglassmod:BlockSoulGlass.name=Soul Glass
+tile.soulglassmod:BlockSoulForge.name=Soul Forge
+tile.soulglassmod:BlockStackaBlock.name=StackaBlock
 itemGroup.soulglassmod=Soul Glass Mod
 
