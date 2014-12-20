@@ -36,6 +36,7 @@ public class BlockSoulGlassMod extends Block {
     public void registerBlockIcons(IIconRegister iconRegister) {
         blockIcon = iconRegister.registerIcon(String.format("%s", getUnwrappedUnlocalizedName(this.getUnlocalizedName())));
     }
+
     public void setItemDroppedAndQuantity(ItemStack par1ItemStack,int par2){
         this.itemDropped = par1ItemStack;
         this.quantityDropped = par2;
@@ -44,6 +45,7 @@ public class BlockSoulGlassMod extends Block {
     //public int idDropped(int par1, Random par2Random, int par3) {
       //  return this.itemDropped != null ? this.itemDropped.getItem() : this.getItemDropped();
     //}
+    @Override
     public int quantityDropped(Random par1Random){
         return this.quantityDropped;
     }

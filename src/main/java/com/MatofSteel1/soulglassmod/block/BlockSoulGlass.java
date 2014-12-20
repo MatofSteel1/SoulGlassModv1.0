@@ -2,12 +2,15 @@ package com.MatofSteel1.soulglassmod.block;
 
 import com.MatofSteel1.soulglassmod.reference.Names;
 
+import java.util.Random;
+
 public class BlockSoulGlass extends BlockSoulGlassMod {
 
     @Override
     public boolean isOpaqueCube(){
         return false;
     }
+
 
     public int canRenderInPass(){
         return 1;
@@ -22,13 +25,18 @@ public class BlockSoulGlass extends BlockSoulGlassMod {
         return 1;
     }
 
+    public boolean shouldSideBeRendered(){
+        return false;
+    }
+
     public BlockSoulGlass() {
         super();
         this.setBlockName(Names.Blocks.soulGlass).setBlockTextureName(Names.Blocks.soulGlass).setHardness(0.1F).setResistance(2000.0F).setStepSound(soundTypeGlass).setLightOpacity(0).isOpaqueCube();
         this.canRenderInPass();
         this.renderAsNormalBlock();
         this.getRenderBlockPass();
-        //this.shouldSideBeRendered();
+        this.shouldSideBeRendered();
+        //this.quantityDroppedWithBonus(2, random);
     }
 }
 

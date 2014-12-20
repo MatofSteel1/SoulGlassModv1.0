@@ -30,8 +30,7 @@ public class SoulGlassMod {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         ModItems.init();
         ModBlocks.init();
-        proxy.registerKeyBindings();
-
+        //proxy.registerKeyBindings();
 
         LogHelper.info("Pre Initialization Complete!");
     }

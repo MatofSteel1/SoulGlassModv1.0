@@ -1,7 +1,6 @@
 package com.MatofSteel1.soulglassmod.proxy;
 
 public interface IProxy {
-    {
-        public abstract void registerKeyBindings();
-    }
+    public abstract void registerKeyBindings();
 }
+

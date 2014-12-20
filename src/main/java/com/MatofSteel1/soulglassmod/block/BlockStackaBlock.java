@@ -1,28 +1,39 @@
 package com.MatofSteel1.soulglassmod.block;
 
-import com.MatofSteel1.soulglassmod.inventory.ItemInventory;
 import com.MatofSteel1.soulglassmod.inventory.PlayerItemInventory;
-import com.MatofSteel1.soulglassmod.item.ItemSoulGlassMod;
 import com.MatofSteel1.soulglassmod.reference.Names;
-import com.MatofSteel1.soulglassmod.utility.InventoryUtils;
-import cpw.mods.fml.common.eventhandler.SubscribeEvent;
+import net.minecraft.client.multiplayer.WorldClient;
+import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemBlock;
 import net.minecraft.item.ItemStack;
+import net.minecraft.potion.Potion;
+import net.minecraft.potion.PotionEffect;
 import net.minecraft.world.World;
-import net.minecraftforge.event.entity.player.EntityItemPickupEvent;
+import net.minecraft.world.chunk.IChunkProvider;
 
 import java.util.Random;
 
 
 public class BlockStackaBlock extends BlockSoulGlassMod {
+
+    public void CreativeBlock(ItemStack stack, World world, net.minecraft.entity.EntityLivingBase entity, int par4, boolean par5) {
+        super.onBlockPlaced(world, 1, 1, 1, 1, 1, 1, 1, 1);
+        EntityPlayer player = (EntityPlayer) entity;
+        if (this.onBlockPlaced(world, 1, 1, 1, 1, 1, 1, 1, 1) == 1){
+
+            player.inventory.addItemStackToInventory(stack);
+
+        }
+
+    }
+
+
     public BlockStackaBlock(){
         super();
         this.setBlockName(Names.Blocks.stackaBlock).setBlockTextureName(Names.Blocks.stackaBlock).setHardness(0f).setResistance(0f).setStepSound(soundTypeStone).isToolEffective("Fist", 0);
 
 
-        boolean slotTaken = false;
+        /*boolean slotTaken = false;
         for(int i = 0; i < 44; i++)
         {
             if (this.getItemIconName() == "BlockStackaBlock") {
@@ -33,7 +44,7 @@ public class BlockStackaBlock extends BlockSoulGlassMod {
                     slotTaken = true;
                 }
             }
-        }
+        }*/
     }
 
 
