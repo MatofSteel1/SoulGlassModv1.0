@@ -1,10 +1,15 @@
 package com.MatofSteel1.soulglassmod.block;
 
+import com.MatofSteel1.soulglassmod.init.ModBlocks;
+import com.MatofSteel1.soulglassmod.init.ModItems;
+import com.MatofSteel1.soulglassmod.item.ItemSoulGlassShard;
 import com.MatofSteel1.soulglassmod.reference.Names;
+import net.minecraft.block.material.Material;
+import net.minecraft.item.Item;
 
 import java.util.Random;
 
-public class BlockSoulGlass extends BlockSoulGlassMod {
+public class BlockSoulGlass extends BlockOreMod {
 
     @Override
     public boolean isOpaqueCube(){
@@ -36,7 +41,7 @@ public class BlockSoulGlass extends BlockSoulGlassMod {
         this.renderAsNormalBlock();
         this.getRenderBlockPass();
         this.shouldSideBeRendered();
-        //this.quantityDroppedWithBonus(2, random);
+
     }
 }
 

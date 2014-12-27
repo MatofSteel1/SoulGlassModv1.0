@@ -11,5 +11,6 @@ public class Recipies {
         GameRegistry.addRecipe(new ItemStack(ModBlocks.BlockSoulGlass, 4), "ggg", "geg", "ggg", 'g', new ItemStack(Blocks.glass), 'e', new ItemStack(ModItems.ITEM_REFINED_SOUL_ESSENCE));
         GameRegistry.addRecipe(new ItemStack(ModBlocks.BlockSoulGlass), "ss", "ss", 's', new ItemStack(ModItems.ITEM_SOUL_GLASS_SHARD));
         GameRegistry.addRecipe(new ItemStack(ModItems.ITEM_SOUL_GLASS_SHOVEL), " b ", " s ", " s ", 'b', new ItemStack(ModBlocks.BlockSoulGlass), 's', new ItemStack(Items.stick));
+        GameRegistry.addRecipe(new ItemStack(ModItems.ITEM_SOUL_GLASS_SWORD), " b ", " b ", "<s<", 'b', new ItemStack(ModBlocks.BlockSoulGlass), 's', new ItemStack(Items.stick), '<', new ItemStack(ModItems.ITEM_SOUL_GLASS_SHARD));
     }
 }

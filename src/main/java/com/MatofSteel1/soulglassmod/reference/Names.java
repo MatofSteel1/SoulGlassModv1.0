@@ -13,6 +13,7 @@ public final class Names {
         public static final String soulGlassPickaxe = "ItemSoulGlassPickaxe";
         public static final String soulGlassShovel = "ItemSoulGlassShovel";
         public static final String soulGlassShard = "ItemSoulGlassShard";
+        public static final String soulGlassSword = "ItemSoulGlassSword";
     }
 
     public static final class Blocks
