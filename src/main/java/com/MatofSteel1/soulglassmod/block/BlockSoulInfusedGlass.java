@@ -2,13 +2,9 @@ package com.MatofSteel1.soulglassmod.block;
 
 import com.MatofSteel1.soulglassmod.init.ModBlocks;
 import com.MatofSteel1.soulglassmod.init.ModItems;
-import com.MatofSteel1.soulglassmod.item.ItemSoulGlassShard;
 import com.MatofSteel1.soulglassmod.reference.Names;
 import net.minecraft.block.material.Material;
-import net.minecraft.item.Item;
 import net.minecraft.world.IBlockAccess;
-
-import java.util.Random;
 
 public class BlockSoulInfusedGlass extends BlockOreMod {
 

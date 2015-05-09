@@ -1,6 +1,7 @@
 package com.MatofSteel1.soulglassmod.item;
 
 import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
+import com.MatofSteel1.soulglassmod.init.MobExtendedProperties;
 import com.MatofSteel1.soulglassmod.reference.Names;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import net.minecraft.entity.EntityLivingBase;
@@ -24,11 +25,24 @@ public class ItemSoulGlassSword extends ItemSword {
         p_77644_1_.damageItem(1, p_77644_3_);
         p_77644_3_.addPotionEffect(new PotionEffect(Potion.resistance.id, 1, 3));
         p_77644_3_.addPotionEffect(new PotionEffect(Potion.harm.id, 1, 1));
-        if (p_77644_2_.isPotionApplicable(new PotionEffect(Potion.poison.id, 220, 4))) {
-            p_77644_2_.addPotionEffect(new PotionEffect(Potion.poison.id, 220, 4));
-        }else {
-            p_77644_2_.addPotionEffect(new PotionEffect(Potion.wither.id, 190, 2));
+            if (p_77644_2_.getHealth() < 10 && p_77644_2_.isEntityUndead()) {
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.harm.id, 10, 100));
+            }else if (p_77644_2_.getHealth() < 10 && !p_77644_2_.isEntityUndead()){
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.heal.id, 10, 100));
+            }else if (p_77644_2_.isPotionApplicable(new PotionEffect(Potion.poison.id, 220, 4))) {
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.heal.id, 10, 100));
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.poison.id, 190, 4));
+            } else if (!p_77644_2_.isPotionApplicable(new PotionEffect(Potion.poison.id, 220, 4)) && p_77644_2_.isEntityUndead()) {
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.harm.id, 1, 4));
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.wither.id, 190, 2));
+            } else {
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.heal.id, 1, 4));
+                p_77644_2_.addPotionEffect(new PotionEffect(Potion.wither.id, 148, 2));
         }
         return true;
     }
+
+    /*public void setHealth(int health){
+        this.setHealth(health);
+    }*/
 }

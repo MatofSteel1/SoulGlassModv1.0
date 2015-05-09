@@ -1,10 +1,9 @@
 package com.MatofSteel1.soulglassmod.inventory;
 
+import com.MatofSteel1.soulglassmod.utility.ItemUtils;
+import com.google.common.base.Preconditions;
 import net.minecraft.item.ItemStack;
 import net.minecraft.nbt.NBTTagCompound;
-import com.MatofSteel1.soulglassmod.utility.ItemUtils;
-
-import com.google.common.base.Preconditions;
 
 public class ItemInventory extends GenericInventory {
 

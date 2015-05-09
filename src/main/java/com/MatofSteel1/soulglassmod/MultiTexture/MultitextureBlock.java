@@ -5,7 +5,6 @@ import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
-import net.minecraft.creativetab.CreativeTabs;
 
 public class MultitextureBlock extends Block {
 

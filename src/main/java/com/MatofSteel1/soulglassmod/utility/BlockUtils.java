@@ -1,8 +1,7 @@
 package com.MatofSteel1.soulglassmod.utility;
 
 
-import java.util.List;
-
+import com.MatofSteel1.soulglassmod.inventory.IInventoryProvider;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.item.EntityItem;
 import net.minecraft.inventory.IInventory;
@@ -13,7 +12,8 @@ import net.minecraft.util.MathHelper;
 import net.minecraft.util.MovingObjectPosition;
 import net.minecraft.world.World;
 import net.minecraftforge.common.util.ForgeDirection;
-import com.MatofSteel1.soulglassmod.inventory.IInventoryProvider;
+
+import java.util.List;
 
 public class BlockUtils {
 

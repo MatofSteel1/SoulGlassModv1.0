@@ -1,7 +1,6 @@
 package com.MatofSteel1.soulglassmod.block;
 
 import com.MatofSteel1.soulglassmod.reference.Names;
-import net.minecraft.world.World;
 
 import java.util.Random;
 

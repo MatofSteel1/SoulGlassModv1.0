@@ -1,8 +1,12 @@
 package com.MatofSteel1.soulglassmod.utility;
 
 
-import java.util.*;
-
+import com.MatofSteel1.soulglassmod.inventory.GenericInventory;
+import com.google.common.base.Preconditions;
+import com.google.common.collect.ImmutableSet;
+import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
+import com.google.common.collect.Sets;
 import net.minecraft.init.Blocks;
 import net.minecraft.inventory.IInventory;
 import net.minecraft.inventory.ISidedInventory;
@@ -12,10 +16,8 @@ import net.minecraft.tileentity.TileEntity;
 import net.minecraft.tileentity.TileEntityChest;
 import net.minecraft.world.World;
 import net.minecraftforge.common.util.ForgeDirection;
-import com.MatofSteel1.soulglassmod.inventory.GenericInventory;
 
-import com.google.common.base.Preconditions;
-import com.google.common.collect.*;
+import java.util.*;
 
 public class InventoryUtils {
 

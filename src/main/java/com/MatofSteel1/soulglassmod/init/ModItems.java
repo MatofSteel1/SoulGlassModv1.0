@@ -5,7 +5,6 @@ import com.MatofSteel1.soulglassmod.reference.Names;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemArmor;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModItems {
