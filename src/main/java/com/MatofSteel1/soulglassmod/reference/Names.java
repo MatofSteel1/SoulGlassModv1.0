@@ -18,7 +18,7 @@ public final class Names {
 
     public static final class Blocks
     {
-        public static final String soulGlass = "BlockSoulGlass";
+        public static final String soulGlass = "BlockSoulInfusedGlass";
         public static final String stackaBlock = "BlockStackaBlock";
         public static final String soulForge = "BlockSoulForge";
     }

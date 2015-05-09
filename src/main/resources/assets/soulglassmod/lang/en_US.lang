@@ -9,7 +9,7 @@ item.ItemSoulGlassPickaxe.name=Soul Glass Pickaxe
 item.ItemSoulGlassShovel.name=Soul Glass Shovel
 item.ItemSoulGlassSword.name=Soul Glass Sword
     # Blocks/Tiles
-tile.soulglassmod:BlockSoulGlass.name=Soul Glass
+tile.soulglassmod:BlockSoulInfusedGlass.name=Soul Infused Glass
 tile.soulglassmod:BlockSoulForge.name=Soul Forge
 tile.soulglassmod:BlockStackaBlock.name=StackaBlock
     # Keys

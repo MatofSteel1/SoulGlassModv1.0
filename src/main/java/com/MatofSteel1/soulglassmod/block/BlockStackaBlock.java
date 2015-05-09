@@ -1,6 +1,7 @@
 package com.MatofSteel1.soulglassmod.block;
 
 import com.MatofSteel1.soulglassmod.reference.Names;
+import net.minecraft.world.World;
 
 import java.util.Random;
 
@@ -18,9 +19,10 @@ public class BlockStackaBlock extends BlockSoulGlassMod {
             return true;
     }*/
 
-    public BlockStackaBlock(){
+    public BlockStackaBlock() {
         super();
         this.setBlockName(Names.Blocks.stackaBlock).setBlockTextureName(Names.Blocks.stackaBlock).setHardness(0f).setResistance(0f).setStepSound(soundTypeStone).isToolEffective("Fist", 0);
+
         //this.isCreativeBlock(new BlockStackaBlock(), new net.minecraft.world.WorldType("Superflat") , new net.minecraft.entity.player.InventoryPlayer(new EntityPlayer()){
 
         //});
@@ -39,8 +41,7 @@ public class BlockStackaBlock extends BlockSoulGlassMod {
         }*/
     }
 
-
-    /*@SubscribeEvent
+/*@SubscribeEvent
     public void onItemPickUp(EntityItemPickupEvent evt) {
 
         final EntityPlayer player = evt.entityPlayer;

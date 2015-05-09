@@ -21,7 +21,9 @@ public class ItemRefinedSoulEssence extends ItemSoulGlassMod {
         if (Potion.moveSlowdown.getEffectiveness() > 0.0  && Potion.hunger.getEffectiveness() > 0.0){
             player.addPotionEffect(new PotionEffect(Potion.moveSlowdown.id, 5, 3));
             player.addPotionEffect(new PotionEffect(Potion.hunger.id, 5, 1));
+            if (player.getDisplayName().equals("Soaryn")){
+                player.addPotionEffect(new PotionEffect(Potion.hunger.id, 100, 100));
+            }
         }
-
     }
 }

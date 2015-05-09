@@ -2,15 +2,18 @@ package com.MatofSteel1.soulglassmod.block;
 
 import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
 import com.MatofSteel1.soulglassmod.reference.Reference;
+import cpw.mods.fml.relauncher.Side;
+import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.*;
 import net.minecraft.block.material.Material;
+import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import net.minecraftforge.common.util.EnumHelper;
 
 import java.util.Random;
 
 public class BlockOreMod extends Block {
-
     private Item drop;
     private int meta;
     private int least_quantity;
@@ -55,4 +58,21 @@ public class BlockOreMod extends Block {
             return this.least_quantity;
         return this.least_quantity + random.nextInt(this.most_quantity - this.least_quantity + fortune + 1);
     }
+
+    @Override
+    public String getUnlocalizedName() {
+        return String.format("tile.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+    }
+
+    @Override
+    @SideOnly(Side.CLIENT)
+    public void registerBlockIcons(IIconRegister iconRegister) {
+        blockIcon = iconRegister.registerIcon(String.format("%s", getUnwrappedUnlocalizedName(this.getUnlocalizedName())));
+    }
+
+
+    protected String getUnwrappedUnlocalizedName(String unlocalizedName) {
+        return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+    }
+
 }

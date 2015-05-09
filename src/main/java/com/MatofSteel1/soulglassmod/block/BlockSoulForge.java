@@ -6,5 +6,6 @@ public class BlockSoulForge extends BlockSoulGlassMod {
     public BlockSoulForge() {
         super();
         this.setBlockName(Names.Blocks.soulForge);
+        //TODO make multi textured and a tile entity
     }
 }
