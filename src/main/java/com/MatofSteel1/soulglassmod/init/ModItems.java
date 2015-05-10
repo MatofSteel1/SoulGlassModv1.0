@@ -8,7 +8,10 @@ import net.minecraft.item.Item;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModItems {
-    //public static final ItemGlassChestplate ITEM_GLASS_CHESTPLATE  = new ItemGlassChestplate(ItemArmor.ArmorMaterial.valueOf(new ItemArmor.ArmorMaterial<ItemSoulGlassMod.SOULPLATING>(), "SOULPLATING"));
+    public static final ItemGlassHelmet ITEM_GLASS_HELMET = new ItemGlassHelmet();
+    public static final ItemGlassChestplate ITEM_GLASS_CHESTPLATE  = new ItemGlassChestplate();
+    public static final ItemGlassLeggings ITEM_GLASS_LEGGINGS  = new ItemGlassLeggings();
+    public static final ItemGlassBoots ITEM_GLASS_BOOTS = new ItemGlassBoots();
     public static final ItemRefinedSoulEssence ITEM_REFINED_SOUL_ESSENCE = new ItemRefinedSoulEssence();
     public static final ItemSoulGlassShard ITEM_SOUL_GLASS_SHARD = new ItemSoulGlassShard();
     public static final ItemSoulGlassPickaxe ITEM_SOUL_GLASS_PICKAXE = new ItemSoulGlassPickaxe(Item.ToolMaterial.valueOf("SOULGLASS"));
@@ -16,7 +19,10 @@ public class ModItems {
     public static final ItemSoulGlassSword ITEM_SOUL_GLASS_SWORD = new ItemSoulGlassSword(Item.ToolMaterial.valueOf("SOULSHARD"));
 
     public static void init() {
-        //GameRegistry.registerItem(ITEM_GLASS_CHESTPLATE, Names.Items.glassChestplate);
+        GameRegistry.registerItem(ITEM_GLASS_HELMET, Names.Items.glassHelmet);
+        GameRegistry.registerItem(ITEM_GLASS_CHESTPLATE, Names.Items.glassChestplate);
+        GameRegistry.registerItem(ITEM_GLASS_LEGGINGS, Names.Items.glassLeggings);
+        GameRegistry.registerItem(ITEM_GLASS_BOOTS, Names.Items.glassBoots);
         GameRegistry.registerItem(ITEM_REFINED_SOUL_ESSENCE, Names.Items.refinedSoulEssence);
         GameRegistry.registerItem(ITEM_SOUL_GLASS_PICKAXE, Names.Items.soulGlassPickaxe);
         GameRegistry.registerItem(ITEM_SOUL_GLASS_SHOVEL, Names.Items.soulGlassShovel);

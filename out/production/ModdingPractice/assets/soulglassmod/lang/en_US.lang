@@ -1,7 +1,11 @@
     # Creative Tabs
 itemGroup.soulglassmod=Soul Glass Mod
+    #Armor
+item.ItemGlassHelmet.name=Soul Glass Helmet
+item.ItemGlassChestplate.name=Soul Glass Chestplate
+item.ItemGlassLeggings.name=Soul Glass Leggings
+item.ItemGlassBoots.name=Soul Glass Boots
     # Items
-item.soulglassmod:ItemGlassChestplate.name=Glass Chestplate
 item.soulglassmod:ItemRefinedSoulEssence.name=Refined Soul Essence
 item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
     # Tools

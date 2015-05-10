@@ -22,9 +22,7 @@ public class ItemSoulGlassMod extends Item{
     }
 
     public static ToolMaterial SOULGLASS = EnumHelper.addToolMaterial("SOULGLASS", 2, 1024, 10.0F, 2.0F, 0);
-    public static ToolMaterial SOULSHARD = EnumHelper.addToolMaterial("SOULSHARD", 3, 700, 20.0F, -3.9F, 22);
-    public static ItemArmor.ArmorMaterial SOULPLATING = EnumHelper.addArmorMaterial("SOULPLATING", 240, new int[]{2, 6, 5, 2}, 15);
-    public static ItemArmor.ArmorMaterial ARMOR = EnumHelper.addArmorMaterial("TUTORIAL", 16, new int[] {3, 8, 6, 3}, 30);
+    public static ToolMaterial SOULSHARD = EnumHelper.addToolMaterial("SOULSHARD", 3, 700, 20.0F, -3.9F, 0);
 
     @Override
     public String getUnlocalizedName()

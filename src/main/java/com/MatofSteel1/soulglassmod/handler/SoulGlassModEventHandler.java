@@ -4,7 +4,6 @@ import com.MatofSteel1.soulglassmod.init.MobExtendedProperties;
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraftforge.event.entity.EntityEvent;
-import net.minecraftforge.event.entity.living.LivingEvent;
 
 public class SoulGlassModEventHandler {
     @SubscribeEvent

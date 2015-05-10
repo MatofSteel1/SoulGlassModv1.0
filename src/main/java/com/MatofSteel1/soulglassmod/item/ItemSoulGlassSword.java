@@ -1,7 +1,6 @@
 package com.MatofSteel1.soulglassmod.item;
 
 import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
-import com.MatofSteel1.soulglassmod.init.MobExtendedProperties;
 import com.MatofSteel1.soulglassmod.reference.Names;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import net.minecraft.entity.EntityLivingBase;
@@ -41,8 +40,4 @@ public class ItemSoulGlassSword extends ItemSword {
         }
         return true;
     }
-
-    /*public void setHealth(int health){
-        this.setHealth(health);
-    }*/
 }

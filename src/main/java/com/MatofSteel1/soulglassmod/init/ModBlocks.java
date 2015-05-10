@@ -9,7 +9,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class ModBlocks {
     public static final BlockOreMod BlockSoulInfusedGlass = new BlockSoulInfusedGlass();
     public static final BlockSoulGlassMod BlockStackaBlock = new BlockStackaBlock();
-    public static final BlockSoulGlassMod BlockSoulForge = new BlockSoulForge();
+    public static final BlockMulti_Texture BlockSoulForge = new BlockSoulForge();
 
     public static void init() {
         GameRegistry.registerBlock(BlockSoulInfusedGlass, Names.Blocks.soulGlass);
