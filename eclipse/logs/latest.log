@@ -1,8 +1,9 @@
-[22:00:38] [main/INFO]: Setting user: Clackman7
-[22:00:44] [Client thread/INFO]: LWJGL Version: 2.9.1
-[22:00:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Soul Glass Mod, FMLFileResourcePack:Damage Indicators
-[22:01:00] [Sound Library Loader/INFO]: Sound engine started
-[22:01:05] [Client thread/ERROR]: Using missing texture, unable to load soulglassmod:textures/blocks/BlockSoulForge.png
+[15:03:02] [main/INFO]: Logging in with username & password
+[15:03:19] [main/INFO]: Setting user: Clackman7
+[15:03:26] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:03:45] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Soul Glass Mod, FMLFileResourcePack:Damage Indicators
+[15:03:46] [Sound Library Loader/INFO]: Sound engine started
+[15:03:51] [Client thread/ERROR]: Using missing texture, unable to load soulglassmod:textures/blocks/BlockSoulForge.png
 java.io.FileNotFoundException: soulglassmod:textures/blocks/BlockSoulForge.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -20,17 +21,12 @@ java.io.FileNotFoundException: soulglassmod:textures/blocks/BlockSoulForge.png
 	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:78) [start/:?]
-	at GradleStart.main(GradleStart.java:45) [start/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
-	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
-	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:?]
-[22:01:06] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:01:06] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:01:07] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Soul Glass Mod, FMLFileResourcePack:Damage Indicators
-[22:01:07] [Client thread/ERROR]: Using missing texture, unable to load soulglassmod:textures/blocks/BlockSoulForge.png
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source) [start/:?]
+	at GradleStart.main(Unknown Source) [start/:?]
+[15:03:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:03:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:03:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Soul Glass Mod, FMLFileResourcePack:Damage Indicators
+[15:03:54] [Client thread/ERROR]: Using missing texture, unable to load soulglassmod:textures/blocks/BlockSoulForge.png
 java.io.FileNotFoundException: soulglassmod:textures/blocks/BlockSoulForge.png
 	at net.minecraft.client.resources.FallbackResourceManager.getResource(FallbackResourceManager.java:65) ~[FallbackResourceManager.class:?]
 	at net.minecraft.client.resources.SimpleReloadableResourceManager.getResource(SimpleReloadableResourceManager.java:67) ~[SimpleReloadableResourceManager.class:?]
@@ -51,41 +47,30 @@ java.io.FileNotFoundException: soulglassmod:textures/blocks/BlockSoulForge.png
 	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.11.jar:?]
 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.11.jar:?]
-	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:78) [start/:?]
-	at GradleStart.main(GradleStart.java:45) [start/:?]
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_25]
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_25]
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_25]
-	at java.lang.reflect.Method.invoke(Method.java:483) ~[?:1.8.0_25]
-	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:140) [idea_rt.jar:?]
-[22:01:08] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[22:01:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[22:01:09] [Sound Library Loader/INFO]: Sound engine started
-[22:03:00] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[22:03:00] [Server thread/INFO]: Generating keypair
-[22:03:02] [Server thread/INFO]: Preparing start region for level 0
-[22:03:03] [Server thread/INFO]: Preparing spawn area: 69%
-[22:03:04] [Server thread/INFO]: Changing view distance to 12, from 10
-[22:03:06] [Server thread/INFO]: Clackman7[local:E:8fe2407b] logged in with entity id 202 at (-965.7792481756888, 4.0, 640.9091964314864)
-[22:03:06] [Server thread/INFO]: Clackman7 joined the game
-[22:03:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2353ms behind, skipping 47 tick(s)
-[22:03:17] [Client thread/INFO]: [CHAT] Damage Indicators v.3.2.3.0 is up to date.
-[22:03:18] [Server thread/INFO]: Saving and pausing game...
-[22:03:18] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:03:19] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:03:19] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:04:17] [Server thread/INFO]: Saving and pausing game...
-[22:04:17] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:04:17] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:04:17] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:04:45] [Server thread/INFO]: Saving and pausing game...
-[22:04:45] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:04:45] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:04:45] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:04:46] [Server thread/INFO]: Stopping server
-[22:04:46] [Server thread/INFO]: Saving players
-[22:04:46] [Server thread/INFO]: Saving worlds
-[22:04:46] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
-[22:04:46] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
-[22:04:46] [Server thread/INFO]: Saving chunks for level 'New World'/The End
-[22:04:47] [Client thread/INFO]: Stopping!
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source) [start/:?]
+	at GradleStart.main(Unknown Source) [start/:?]
+[15:03:54] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[15:03:54] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[15:03:55] [Sound Library Loader/INFO]: Sound engine started
+[15:05:03] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[15:05:03] [Server thread/INFO]: Generating keypair
+[15:05:04] [Server thread/INFO]: Preparing start region for level 0
+[15:05:05] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:05:07] [Server thread/INFO]: Clackman7[local:E:7ec0eb4c] logged in with entity id 85 at (-972.8926354510429, 4.0, 642.9059834503885)
+[15:05:07] [Server thread/INFO]: Clackman7 joined the game
+[15:05:19] [Client thread/INFO]: [CHAT] Damage Indicators v.3.2.3.0 is up to date.
+[15:05:20] [Server thread/INFO]: Saving and pausing game...
+[15:05:20] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:05:20] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:05:20] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:06:10] [Server thread/INFO]: Saving and pausing game...
+[15:06:10] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:06:10] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:06:10] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:06:11] [Server thread/INFO]: Stopping server
+[15:06:11] [Server thread/INFO]: Saving players
+[15:06:11] [Server thread/INFO]: Saving worlds
+[15:06:11] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:06:11] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:06:11] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:10:28] [Client thread/INFO]: Stopping!

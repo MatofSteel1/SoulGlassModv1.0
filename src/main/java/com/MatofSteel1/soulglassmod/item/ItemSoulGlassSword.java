@@ -1,6 +1,7 @@
 package com.MatofSteel1.soulglassmod.item;
 
 import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
+import com.MatofSteel1.soulglassmod.init.ModItems;
 import com.MatofSteel1.soulglassmod.reference.Names;
 import com.MatofSteel1.soulglassmod.reference.Reference;
 import net.minecraft.entity.EntityLivingBase;
@@ -19,11 +20,16 @@ public class ItemSoulGlassSword extends ItemSword {
         this.setCreativeTab(CreativeTabSGM.SoulGlassMod_TAB);
     }
 
+
+
     @Override
     public boolean hitEntity(ItemStack p_77644_1_, EntityLivingBase p_77644_2_, EntityLivingBase p_77644_3_) {
         p_77644_1_.damageItem(1, p_77644_3_);
         p_77644_3_.addPotionEffect(new PotionEffect(Potion.resistance.id, 1, 3));
         p_77644_3_.addPotionEffect(new PotionEffect(Potion.harm.id, 1, 1));
+        if (p_77644_3_.getHeldItem().getItem() == ModItems.ITEM_SOUL_GLASS_SWORD){
+            p_77644_3_.addPotionEffect(new PotionEffect(Potion.weakness.id, 1, 3));
+        }
             if (p_77644_2_.getHealth() < 10 && p_77644_2_.isEntityUndead()) {
                 p_77644_2_.addPotionEffect(new PotionEffect(Potion.harm.id, 10, 100));
             }else if (p_77644_2_.getHealth() < 10 && !p_77644_2_.isEntityUndead()){

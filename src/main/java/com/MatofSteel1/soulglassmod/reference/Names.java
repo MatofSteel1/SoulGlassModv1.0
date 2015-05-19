@@ -3,6 +3,7 @@ package com.MatofSteel1.soulglassmod.reference;
 public final class Names {
     public static final class Keys {
         public static final String CATEGORY = "keys.SoulGlassMod.category";
+        public static final String INVISIBILITY = "keys.SoulGlassMod.invisibility";
         public static final String CHARGE = "keys.SoulGlassMod.charge";
         public static final String RELEASE = "keys.SoulGlassMod.release";
     }

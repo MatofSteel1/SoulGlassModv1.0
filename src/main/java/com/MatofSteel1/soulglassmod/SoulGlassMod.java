@@ -28,10 +28,9 @@ public class SoulGlassMod {
     public void preInit(FMLPreInitializationEvent preEvent) {
         ConfigurationHandler.init(preEvent.getSuggestedConfigurationFile());
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
-        LogHelper.info(ModItems.ITEM_GLASS_CHESTPLATE);
         ModItems.init();
         ModBlocks.init();
-        //proxy.registerKeyBindings();
+        proxy.registerKeyBindings();
 
         LogHelper.info("Pre Initialization Complete!");
     }

@@ -22,7 +22,7 @@ group= "com.MatofSteel1.soulglassmod" // http://maven.apache.org/guides/mini/gui
 archivesBaseName = "Soul Glass Mod"
 
 minecraft {
-    version = "1.7.10-10.13.2.1230"
+    version = "1.7.10-10.13.2.1291"
     runDir = "eclipse"
 }
 

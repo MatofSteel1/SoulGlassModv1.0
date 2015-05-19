@@ -1594,3 +1594,335 @@
 [22:00:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
 [22:00:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
 [22:00:25] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:10:21] [main/INFO] [GradleStart]: username: Clackman7
+[16:10:21] [main/INFO] [GradleStart]: Extra: []
+[16:10:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:10:22] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:10:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:10:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:10:22] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [GradleStart]: username: Clackman7
+[16:17:20] [main/INFO] [GradleStart]: Extra: []
+[16:17:20] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:17:20] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:17:20] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:23:23] [main/INFO] [GradleStart]: username: Clackman7
+[16:23:23] [main/INFO] [GradleStart]: Extra: []
+[16:23:23] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:23:23] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:23:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:23:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:23:23] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:48] [main/INFO] [GradleStart]: username: Clackman7
+[16:27:48] [main/INFO] [GradleStart]: Extra: []
+[16:27:48] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:27:48] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:27:48] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:31] [main/INFO] [GradleStart]: username: Clackman7
+[16:33:31] [main/INFO] [GradleStart]: Extra: []
+[16:33:32] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:33:32] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:32] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:32] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:33:32] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:40:18] [main/INFO] [GradleStart]: Extra: []
+[16:40:18] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:40:18] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[16:40:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[16:40:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:40:18] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[16:42:09] [main/INFO] [GradleStart]: Extra: []
+[16:42:09] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker]
+[16:42:09] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[16:42:09] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[16:42:09] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.GradleStartCommon$GradleStartTweaker
+[16:42:09] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:47:45] [main/INFO] [GradleStart]: Extra: []
+[17:47:46] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:47:46] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:47:46] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[17:47:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:47:46] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:01:15] [main/INFO] [GradleStart]: Extra: []
+[18:01:15] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:01:15] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:01:15] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:01:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:01:15] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:09:54] [main/INFO] [GradleStart]: Extra: []
+[18:09:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:09:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:09:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:09:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:09:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:22:02] [main/INFO] [GradleStart]: Extra: []
+[18:22:02] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:22:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:22:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[18:22:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:22:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[19:12:41] [main/INFO] [GradleStart]: username: Clackman7
+[19:12:41] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:12:41] [main/INFO] [GradleStart]: Password found, attempting login
+[19:12:43] [main/INFO] [GradleStart]: Login Succesful!
+[19:12:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:12:43] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:12:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:12:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:12:43] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:24:10] [main/INFO] [GradleStart]: username: Clackman7
+[16:24:10] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:24:10] [main/INFO] [GradleStart]: Password found, attempting login
+[16:24:14] [main/INFO] [GradleStart]: Login Succesful!
+[16:24:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:24:14] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:24:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:40] [main/INFO] [GradleStart]: username: Clackman7
+[16:27:40] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:27:40] [main/INFO] [GradleStart]: Password found, attempting login
+[16:27:43] [main/INFO] [GradleStart]: Login Succesful!
+[16:27:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:27:43] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:27:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:27:43] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:29:38] [main/INFO] [GradleStart]: username: Clackman7
+[16:29:38] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:29:38] [main/INFO] [GradleStart]: Password found, attempting login
+[16:29:41] [main/INFO] [GradleStart]: Login Succesful!
+[16:29:41] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:29:41] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:12] [main/INFO] [GradleStart]: username: Clackman7
+[16:33:12] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:33:12] [main/INFO] [GradleStart]: Password found, attempting login
+[16:33:14] [main/INFO] [GradleStart]: Login Succesful!
+[16:33:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:33:14] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:33:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:33:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:18] [main/INFO] [GradleStart]: username: Clackman7
+[16:36:18] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:36:18] [main/INFO] [GradleStart]: Password found, attempting login
+[16:36:20] [main/INFO] [GradleStart]: Login Succesful!
+[16:36:21] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:36:21] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:21] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:36:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:36:21] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:41:25] [main/INFO] [GradleStart]: username: Clackman7
+[16:41:25] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:41:25] [main/INFO] [GradleStart]: Password found, attempting login
+[16:41:27] [main/INFO] [GradleStart]: Login Succesful!
+[16:41:27] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:41:27] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:41:27] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:41:27] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:41:27] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:11] [main/INFO] [GradleStart]: username: Clackman7
+[16:51:11] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[16:51:11] [main/INFO] [GradleStart]: Password found, attempting login
+[16:51:13] [main/INFO] [GradleStart]: Login Succesful!
+[16:51:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:51:14] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:51:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:51:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:01:49] [main/INFO] [GradleStart]: username: Clackman7
+[17:01:49] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:01:49] [main/INFO] [GradleStart]: Password found, attempting login
+[17:01:51] [main/INFO] [GradleStart]: Login Succesful!
+[17:01:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:01:51] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:01:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:01:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:01:51] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:47] [main/INFO] [GradleStart]: username: Clackman7
+[17:12:47] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:12:47] [main/INFO] [GradleStart]: Password found, attempting login
+[17:12:49] [main/INFO] [GradleStart]: Login Succesful!
+[17:12:49] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:12:49] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:49] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:12:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:12:49] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:15:19] [main/INFO] [GradleStart]: username: Clackman7
+[17:15:19] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:15:19] [main/INFO] [GradleStart]: Password found, attempting login
+[17:15:21] [main/INFO] [GradleStart]: Login Succesful!
+[17:15:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:15:22] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:15:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:15:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:15:22] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:03] [main/INFO] [GradleStart]: username: Clackman7
+[17:20:04] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:20:04] [main/INFO] [GradleStart]: Password found, attempting login
+[17:20:05] [main/INFO] [GradleStart]: Login Succesful!
+[17:20:06] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:20:06] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:06] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:20:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:20:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:24:56] [main/INFO] [GradleStart]: username: Clackman7
+[17:24:56] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:24:56] [main/INFO] [GradleStart]: Password found, attempting login
+[17:24:58] [main/INFO] [GradleStart]: Login Succesful!
+[17:24:58] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:24:58] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:24:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:24:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:24:58] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:37:10] [main/INFO] [GradleStart]: username: Clackman7
+[17:37:10] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:37:10] [main/INFO] [GradleStart]: Password found, attempting login
+[17:37:12] [main/INFO] [GradleStart]: Login Succesful!
+[17:37:12] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:37:12] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:37:13] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:37:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:37:13] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:48] [main/INFO] [GradleStart]: username: Clackman7
+[17:44:48] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:44:48] [main/INFO] [GradleStart]: Password found, attempting login
+[17:44:50] [main/INFO] [GradleStart]: Login Succesful!
+[17:44:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:44:50] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:44:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:44:51] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[17:50:30] [main/INFO] [GradleStart]: username: Clackman7
+[17:50:30] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[17:50:30] [main/INFO] [GradleStart]: Password found, attempting login
+[17:50:33] [main/INFO] [GradleStart]: Login Succesful!
+[17:50:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[17:50:34] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:50:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[17:50:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[17:50:34] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:22:11] [main/INFO] [GradleStart]: username: Clackman7
+[18:22:11] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[18:22:11] [main/INFO] [GradleStart]: Password found, attempting login
+[18:22:14] [main/INFO] [GradleStart]: Login Succesful!
+[18:22:14] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:22:14] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:22:14] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:22:14] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:22:14] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:34:51] [main/INFO] [GradleStart]: username: Clackman7
+[18:34:51] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[18:34:51] [main/INFO] [GradleStart]: Password found, attempting login
+[18:34:53] [main/INFO] [GradleStart]: Login Succesful!
+[18:34:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:34:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:34:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:34:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:34:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[18:58:59] [main/INFO] [GradleStart]: username: Clackman7
+[18:58:59] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[18:58:59] [main/INFO] [GradleStart]: Password found, attempting login
+[18:59:02] [main/INFO] [GradleStart]: Login Succesful!
+[18:59:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[18:59:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:59:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[18:59:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[18:59:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:03:51] [main/INFO] [GradleStart]: username: Clackman7
+[19:03:51] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:03:51] [main/INFO] [GradleStart]: Password found, attempting login
+[19:03:54] [main/INFO] [GradleStart]: Login Succesful!
+[19:03:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:03:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:03:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:03:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:03:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:06:15] [main/INFO] [GradleStart]: username: Clackman7
+[19:06:15] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:06:15] [main/INFO] [GradleStart]: Password found, attempting login
+[19:06:16] [main/INFO] [GradleStart]: Login Succesful!
+[19:06:17] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:06:17] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:06:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:06:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:06:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:18] [main/INFO] [GradleStart]: username: Clackman7
+[19:08:18] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:08:18] [main/INFO] [GradleStart]: Password found, attempting login
+[19:08:20] [main/INFO] [GradleStart]: Login Succesful!
+[19:08:21] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:08:21] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:21] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:08:21] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:17:55] [main/INFO] [GradleStart]: username: Clackman7
+[19:17:55] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:17:55] [main/INFO] [GradleStart]: Password found, attempting login
+[19:17:57] [main/INFO] [GradleStart]: Login Succesful!
+[19:17:57] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:17:57] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:17:57] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:17:57] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:17:57] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:20:56] [main/INFO] [GradleStart]: username: Clackman7
+[19:20:56] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:20:56] [main/INFO] [GradleStart]: Password found, attempting login
+[19:20:59] [main/INFO] [GradleStart]: Login Succesful!
+[19:21:00] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:21:00] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:21:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:21:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:21:00] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:26:29] [main/INFO] [GradleStart]: username: Clackman7
+[19:26:29] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[19:26:29] [main/INFO] [GradleStart]: Password found, attempting login
+[19:26:31] [main/INFO] [GradleStart]: Login Succesful!
+[19:26:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:26:31] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:26:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:26:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:26:31] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[22:00:00] [main/INFO] [GradleStart]: username: Clackman7
+[22:00:00] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[22:00:00] [main/INFO] [GradleStart]: Password found, attempting login
+[22:00:04] [main/INFO] [GradleStart]: Login Succesful!
+[22:00:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[22:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:00:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[22:00:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[22:00:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:33:21] [main/INFO] [GradleStart]: username: Clackman7
+[14:33:21] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[14:33:21] [main/INFO] [GradleStart]: Password found, attempting login
+[14:33:23] [main/INFO] [GradleStart]: Login Succesful!
+[14:33:23] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:33:23] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:33:23] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:33:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:33:23] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:01] [main/INFO] [GradleStart]: username: Clackman7
+[14:38:01] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[14:38:01] [main/INFO] [GradleStart]: Password found, attempting login
+[14:38:04] [main/INFO] [GradleStart]: Login Succesful!
+[14:38:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:38:04] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:04] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:38:04] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:38:04] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:02] [main/INFO] [GradleStart]: username: Clackman7
+[15:03:02] [main/INFO] [GradleStart]: Extra: [--userproperties, {}]
+[15:03:02] [main/INFO] [GradleStart]: Password found, attempting login
+[15:03:04] [main/INFO] [GradleStart]: Login Succesful!
+[15:03:04] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Matthew_2/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, 7a0140126700457e96c1a73dadeb8b94, --username, Clackman7, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --userproperties, {}, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[15:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:05] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:03:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[15:03:05] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

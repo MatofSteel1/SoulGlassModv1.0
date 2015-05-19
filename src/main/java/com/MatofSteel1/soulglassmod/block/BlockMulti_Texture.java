@@ -8,6 +8,7 @@ import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.util.IIcon;
 
 public class BlockMulti_Texture extends Block {
 
@@ -19,19 +20,17 @@ public class BlockMulti_Texture extends Block {
         this.setStepSound(soundTypeStone);
     }
 
+    public IIcon[] icons = new IIcon[6];
+
     @Override
-    public String getUnlocalizedName() {
-        return String.format("tile.%s%s", Reference.MOD_ID.toLowerCase() + ":", getUnwrappedUnlocalizedName(super.getUnlocalizedName()));
+    public void registerBlockIcons(IIconRegister reg) {
+        for (int i = 0; i < 6; i ++) {
+            this.icons[i] = reg.registerIcon(this.textureName + "_" + i);
+        }
     }
 
     @Override
-    @SideOnly(Side.CLIENT)
-    public void registerBlockIcons(IIconRegister iconRegister) {
-        blockIcon = iconRegister.registerIcon(String.format("%s", getUnwrappedUnlocalizedName(this.getUnlocalizedName())));
-    }
-
-
-    protected String getUnwrappedUnlocalizedName(String unlocalizedName) {
-        return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
+    public IIcon getIcon(int side, int meta) {
+        return this.icons[side];
     }
 }
