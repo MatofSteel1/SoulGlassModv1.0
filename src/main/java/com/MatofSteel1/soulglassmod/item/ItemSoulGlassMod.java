@@ -11,17 +11,15 @@ import net.minecraft.client.renderer.texture.IIconRegister;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
-import net.minecraftforge.common.util.EnumHelper;
+import net.minecraft.world.World;
 import net.minecraftforge.event.entity.player.EntityItemPickupEvent;
 
-public class ItemSoulGlassMod extends Item{
+public class ItemSoulGlassMod extends Item {
+
     public ItemSoulGlassMod() {
         super();
         this.setCreativeTab(CreativeTabSGM.SoulGlassMod_TAB);
     }
-
-    public static ToolMaterial SOULGLASS = EnumHelper.addToolMaterial("SOULGLASS", 2, 1024, 10.0F, 2.0F, 0);
-    public static ToolMaterial SOULSHARD = EnumHelper.addToolMaterial("SOULSHARD", 3, 700, 20.0F, -3.9F, 0);
 
     @Override
     public String getUnlocalizedName()
@@ -47,9 +45,6 @@ public class ItemSoulGlassMod extends Item{
         return unlocalizedName.substring(unlocalizedName.indexOf(".") + 1);
     }
 
-    public void getCurrentHealth() {
-        
-    }
 
     @SubscribeEvent
     public void onItemPickUp(EntityItemPickupEvent evt) {
@@ -80,4 +75,8 @@ public class ItemSoulGlassMod extends Item{
         if (foundMatchingContainer) pickedStack.stackSize = 0;
     }
 
+    public boolean placeBlockAt(ItemStack stack, EntityPlayer player, World world, int x, int y, int z, int side, float hitX, float hitY, float hitZ, int metadata) {
+        stack.stackSize++;
+        return true;
+    }
 }

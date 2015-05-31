@@ -14,7 +14,17 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import cpw.mods.fml.common.eventhandler.SubscribeEvent;
+import cpw.mods.fml.common.registry.GameRegistry;
+import jdk.nashorn.internal.ir.Block;
+import net.minecraft.block.BlockSoulSand;
+import net.minecraft.entity.item.EntityItem;
+import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.item.ItemBlock;
+import net.minecraft.item.ItemStack;
+import net.minecraft.world.World;
 import net.minecraftforge.common.MinecraftForge;
+import net.minecraftforge.event.world.BlockEvent;
 
 @Mod(modid = Reference.MOD_ID, name = Reference.MOD_NAME, version = Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class SoulGlassMod {
@@ -22,7 +32,7 @@ public class SoulGlassMod {
     public static SoulGlassMod instance;
 
     @SidedProxy(clientSide = Reference.CLIENT_PROXY_CLASS, serverSide = Reference.SERVER_PROXY_CLASS)
-    public static IProxy proxy;
+    public static IProxy iProxy;
 
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent preEvent) {
@@ -30,8 +40,7 @@ public class SoulGlassMod {
         FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
         ModItems.init();
         ModBlocks.init();
-        proxy.registerKeyBindings();
-
+        iProxy.registerKeyBindings();
         LogHelper.info("Pre Initialization Complete!");
     }
 
@@ -40,7 +49,6 @@ public class SoulGlassMod {
         Recipies.init();
         // the majority of events use the MinecraftForge event bus:
         MinecraftForge.EVENT_BUS.register(new SoulGlassModEventHandler());
-
         // but some are on the FML bus:
         FMLCommonHandler.instance().bus().register(new SoulGlassModEventHandler());
 
@@ -50,8 +58,8 @@ public class SoulGlassMod {
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent postEvent){
 
-
-
         LogHelper.info("Post Initialization Complete!");
     }
+
+    //public BlockEvent.HarvestDropsEvent
 }

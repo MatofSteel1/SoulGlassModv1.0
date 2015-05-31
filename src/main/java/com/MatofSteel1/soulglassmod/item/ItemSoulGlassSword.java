@@ -30,6 +30,7 @@ public class ItemSoulGlassSword extends ItemSword {
         if (p_77644_3_.getHeldItem().getItem() == ModItems.ITEM_SOUL_GLASS_SWORD){
             p_77644_3_.addPotionEffect(new PotionEffect(Potion.weakness.id, 1, 3));
         }
+            //TODO clean up with a switch statement
             if (p_77644_2_.getHealth() < 10 && p_77644_2_.isEntityUndead()) {
                 p_77644_2_.addPotionEffect(new PotionEffect(Potion.harm.id, 10, 100));
             }else if (p_77644_2_.getHealth() < 10 && !p_77644_2_.isEntityUndead()){

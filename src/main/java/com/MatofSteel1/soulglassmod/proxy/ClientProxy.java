@@ -8,6 +8,5 @@ public class ClientProxy extends CommonProxy{
     public void registerKeyBindings(){
         ClientRegistry.registerKeyBinding(Keybindings.charge);
         ClientRegistry.registerKeyBinding(Keybindings.release);
-        ClientRegistry.registerKeyBinding(Keybindings.invisibility);
     }
 }

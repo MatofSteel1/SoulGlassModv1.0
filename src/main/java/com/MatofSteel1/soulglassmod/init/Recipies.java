@@ -1,6 +1,7 @@
 package com.MatofSteel1.soulglassmod.init;
 
 import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.block.BlockSoulSand;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
@@ -12,6 +13,6 @@ public class Recipies {
         GameRegistry.addRecipe(new ItemStack(ModBlocks.BlockSoulInfusedGlass), "ss", "ss", 's', new ItemStack(ModItems.ITEM_SOUL_GLASS_SHARD));
         GameRegistry.addRecipe(new ItemStack(ModItems.ITEM_SOUL_GLASS_SHOVEL), " b ", " s ", " s ", 'b', new ItemStack(ModBlocks.BlockSoulInfusedGlass), 's', new ItemStack(Items.stick));
         GameRegistry.addRecipe(new ItemStack(ModItems.ITEM_SOUL_GLASS_SWORD), " b ", " b ", "<s<", 'b', new ItemStack(ModBlocks.BlockSoulInfusedGlass), 's', new ItemStack(Items.stick), '<', new ItemStack(ModItems.ITEM_SOUL_GLASS_SHARD));
-
+        GameRegistry.addRecipe(new ItemStack(Blocks.soul_sand), "ee", "ee", 'e', new ItemStack(ModItems.ITEM_SOUL_ESSENCE));
     }
 }

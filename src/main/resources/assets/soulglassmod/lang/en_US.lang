@@ -8,6 +8,9 @@ item.ItemGlassBoots.name=Soul Glass Boots
     # Items
 item.soulglassmod:ItemRefinedSoulEssence.name=Refined Soul Essence
 item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
+item.soulglassmod:ItemEternalFood.name=Eternal Food
+item.soulglassmod:ItemStackaBlockPlacer.name=StackaBlock
+item.soulglassmod:ItemSoulEssence.name=Raw Soul Essence
     # Tools
 item.ItemSoulGlassPickaxe.name=Soul Glass Pickaxe
 item.ItemSoulGlassShovel.name=Soul Glass Shovel
@@ -16,6 +19,7 @@ item.ItemSoulGlassSword.name=Soul Glass Sword
 tile.soulglassmod:BlockSoulInfusedGlass.name=Soul Infused Glass
 tile.soulglassmod:BlockSoulForge.name=Soul Forge
 tile.soulglassmod:BlockStackaBlock.name=StackaBlock
+tile.soulglassmod:ItemStackaBlockPlacer.name=StackaBlock
     # Keys
 keys.SoulGlassMod.category=Soul Glass Mod
 keys.SoulGlassMod.charge=Charge
