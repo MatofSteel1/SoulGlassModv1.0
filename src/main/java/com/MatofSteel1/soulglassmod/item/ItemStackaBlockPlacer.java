@@ -9,7 +9,7 @@ public class ItemStackaBlockPlacer extends ItemSoulGlassMod {
 
     public ItemStackaBlockPlacer() {
         super();
-        this.setTextureName(Names.Blocks.stackaBlockPlacer).setUnlocalizedName(Names.Blocks.stackaBlockPlacer);
+        this.setTextureName(Names.Items.stackaBlockPlacer).setUnlocalizedName(Names.Items.stackaBlockPlacer);
     }
 
     //TODO make item place stackablock where looking

@@ -18,13 +18,15 @@ public final class Names {
         public static final String soulGlassShard = "ItemSoulGlassShard";
         public static final String eternalFood = "ItemEternalFood";
         public static final String soulEssence = "ItemSoulEssence";
+        public static final String stackaBlockPlacer = "BlockStackaBlockPlacer";
+        public static final String withersGift = "ItemWithersGift";
     }
 
     public static final class Blocks {
         public static final String soulGlass = "BlockSoulInfusedGlass";
         public static final String stackaBlock = "BlockStackaBlock";
-        public static final String stackaBlockPlacer = "BlockStackaBlock";
-        public static final String soulForge = "BlockSoulForge";
-        public static final String soulSand = "BlockSoulSand";
+        public static final String soulForgeIdle = "BlockSoulForgeIdle";
+        public static final String soulForgeActive = "BlockSoulForgeActive";
+        public static final String tileSoulForge = "TileEntitySoulForge";
     }
 }

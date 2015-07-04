@@ -5,6 +5,7 @@ item.ItemGlassHelmet.name=Soul Glass Helmet
 item.ItemGlassChestplate.name=Soul Glass Chestplate
 item.ItemGlassLeggings.name=Soul Glass Leggings
 item.ItemGlassBoots.name=Soul Glass Boots
+item.ItemWithersGift.name=Wither's Gift
     # Items
 item.soulglassmod:ItemRefinedSoulEssence.name=Refined Soul Essence
 item.soulglassmod:ItemSoulGlassShard.name=Soul Glass Shard
@@ -17,7 +18,8 @@ item.ItemSoulGlassShovel.name=Soul Glass Shovel
 item.ItemSoulGlassSword.name=Soul Glass Sword
     # Blocks/Tiles
 tile.soulglassmod:BlockSoulInfusedGlass.name=Soul Infused Glass
-tile.soulglassmod:BlockSoulForge.name=Soul Forge
+tile.soulglassmod:BlockSoulForgeIdle.name=Soul Forge
+tile.soulglassmod:BlockSoulForgeActive.name=Soul Forge (Active)
 tile.soulglassmod:BlockStackaBlock.name=StackaBlock
 tile.soulglassmod:ItemStackaBlockPlacer.name=StackaBlock
     # Keys

@@ -1,21 +1,13 @@
 package com.MatofSteel1.soulglassmod.block;
 
-import com.MatofSteel1.soulglassmod.creativetab.CreativeTabSGM;
-import com.MatofSteel1.soulglassmod.init.ModItems;
 import com.MatofSteel1.soulglassmod.reference.Names;
-import com.MatofSteel1.soulglassmod.reference.Reference;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.entity.Entity;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.Item;
 import net.minecraft.util.AxisAlignedBB;
 import net.minecraft.world.World;
-import net.minecraft.world.gen.feature.WorldGenMinable;
-import net.minecraft.world.gen.feature.WorldGenSand;
-import net.minecraft.world.gen.feature.WorldGenerator;
-import net.minecraftforge.event.world.BlockEvent;
 
 public class BlockSoulSand extends Block {
     private static final String __OBFID = "CL_00000310";

@@ -20,6 +20,7 @@ public class ModItems {
     public static final ItemEternalFood ITEM_ETERNAL_FOOD = new ItemEternalFood();
     public static final ItemStackaBlockPlacer ITEM_STACKA_BLOCK_PLACER = new ItemStackaBlockPlacer();
     public static final ItemSoulEssence ITEM_SOUL_ESSENCE = new ItemSoulEssence();
+    public static final ItemWithersGift ITEM_WITHERS_GIFT = new ItemWithersGift();
 
     public static void init() {
         GameRegistry.registerItem(ITEM_GLASS_HELMET, Names.Items.glassHelmet);
@@ -34,5 +35,6 @@ public class ModItems {
         GameRegistry.registerItem(ITEM_ETERNAL_FOOD, Names.Items.eternalFood);
         GameRegistry.registerItem(ITEM_STACKA_BLOCK_PLACER, Names.Items.stackaBlockPlacer);
         GameRegistry.registerItem(ITEM_SOUL_ESSENCE, Names.Items.soulEssence);
+        GameRegistry.registerItem(ITEM_WITHERS_GIFT, Names.Items.withersGift);
     }
 }
